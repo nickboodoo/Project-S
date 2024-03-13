@@ -3,6 +3,9 @@ https://www.youtube.com/watch?v=AY9MnQ4x3zk
 
 TODO:
 
+
+remove starter code in runner_video.py
+
 either:
     start with the ML model
 
