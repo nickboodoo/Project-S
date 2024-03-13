@@ -3,3 +3,9 @@ https://www.youtube.com/watch?v=AY9MnQ4x3zk
 
 TODO:
 
+either:
+    start with the ML model
+
+    OR
+
+    start with UI concept
